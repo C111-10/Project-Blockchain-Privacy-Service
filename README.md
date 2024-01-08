@@ -4,3 +4,7 @@ The general Premise of this project is to create a blockchain network that provi
 
 Users have never been given power over their data. This service will give users complete power over their data; whether to hide it completely or sell it themselves or as part of pools! Advertisers and Data buyers are given specialised access to the data blocks they purchase. The miners provide computational effort for the functionality of the network to allow the privacy features and be compensated with a percentage of the data value purchased by data buyers in the native tokens.
 
+# User side
+
+
+# The System architecture
