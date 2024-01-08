@@ -8,3 +8,5 @@ Users have never been given power over their data. This service will give users 
 
 
 # The System architecture
+
+THe network will consist of a bloockchain housing all the user data acquired into said blockchain. This Genesis block will be secured via the proof of work algorithm. A virtual proxy network within the chain will allow this to 
